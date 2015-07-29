@@ -1,0 +1,27 @@
+D:\여름합숙\project\project\project\bin\Debug\project.exe.config
+D:\여름합숙\project\project\project\bin\Debug\project.exe
+D:\여름합숙\project\project\project\bin\Debug\project.pdb
+D:\여름합숙\project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\여름합숙\project\project\project\obj\Debug\project.Form1.resources
+D:\여름합숙\project\project\project\obj\Debug\project.Properties.Resources.resources
+D:\여름합숙\project\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+D:\여름합숙\project\project\project\obj\Debug\project.exe
+D:\여름합숙\project\project\project\obj\Debug\project.pdb
+E:\여름합숙\project\project\project\bin\Debug\project.exe.config
+E:\여름합숙\project\project\project\obj\Debug\project.exe
+E:\여름합숙\project\project\project\obj\Debug\project.pdb
+E:\여름합숙\project\project\project\bin\Debug\project.exe
+E:\여름합숙\project\project\project\bin\Debug\project.pdb
+E:\여름합숙\project\project\project\obj\Debug\project.Form1.resources
+E:\여름합숙\project\project\project\obj\Debug\project.Properties.Resources.resources
+E:\여름합숙\project\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+E:\여름합숙\project\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\여름합숙\project - 복사본\project_수정\project\bin\Debug\project.exe.config
+D:\여름합숙\project - 복사본\project_수정\project\obj\Debug\project.exe
+D:\여름합숙\project - 복사본\project_수정\project\obj\Debug\project.pdb
+D:\여름합숙\project - 복사본\project_수정\project\bin\Debug\project.exe
+D:\여름합숙\project - 복사본\project_수정\project\bin\Debug\project.pdb
+D:\여름합숙\project - 복사본\project_수정\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\여름합숙\project - 복사본\project_수정\project\obj\Debug\project.Form1.resources
+D:\여름합숙\project - 복사본\project_수정\project\obj\Debug\project.Properties.Resources.resources
+D:\여름합숙\project - 복사본\project_수정\project\obj\Debug\project.csproj.GenerateResource.Cache
