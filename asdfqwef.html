@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<form action="/submit" method="POST">
+ID:<br>
+<input type="text" name="ID" value = "">
+<br>
+Content:<br>
+<input type="text" name="Content" value = "">
+<br>
+<br>
+<input type="submit" value="Submit">
+    <br><br>
+</form>
+    <form action="/delete" method="POST">
+    DeleteNumber: <br>
+    <input type="text" name = "D_Num" value = "">
+    <br><br>
+    <input type="submit" value="Delete"><br><br>
+</form>
+<form action="/modify" method="POST">
+        ModifyNumber: <br>
+    <input type="text" name = "M_Num" value = "">
+    <br><br>
+    ModifyContent: <br>
+    <input type="text" name = "M_Content value = ">
+    <br><br>
+    <input type="submit" value="Modify">
+</form>
+
+<br><br>
+{% for data in datas %}
+    숫자 : {{ data[0] }} <br>
+    이름 : {{ data[1] }} <br>
+    코멘트 : {{ data[2] }}<br><br>
+{% endfor %}
+</body>
+</html>
